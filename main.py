@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 from collections import defaultdict
 
-API_KEY = '99fcbe11b224bb307ccb55f755fab071'
+API_KEY = 'YOUR API KEY'
 
 # Set page configuration
 st.set_page_config(page_title="Weather App", page_icon="🌤️")
